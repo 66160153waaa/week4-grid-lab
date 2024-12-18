@@ -1,0 +1,36 @@
+Readme
+- git add .
+- git commit -m "init project"
+- git push
+- git add index.html
+- git commit "เพิ่มโครงสร้าง HTML พื้นฐาน"
+- git add css/styles.css
+- git commit -m "เพิ่ม grid layout พื้นฐาน"
+- git add index.html
+- git commit -m "เพิ่มโครงสร้าง html พื้นฐาน2"
+- git add css/styles.css
+- git commit -m "เพิ่ม media queries สำหรับ responsive design"
+- git add index.html
+- git commit -m "เพิ่มเนื้อหาจำลองสสำหรับทดสอบ responsive"
+- git add css/styles.css
+- git commit -m "เพิ่มcss animations"
+- git add css/styles.css
+- git commit -m "เพิ่ม hover effect"
+- git add .
+- git commit -m "init gallery"
+- git add gallery.html
+- git commit -m "สร้างโครงสร้าง html สำหรับแกลเลอรี"
+- git add css/styles-gallery.css
+- git commit -m "เพิ่ม masonry layout ด้วย css grid"
+- git add css/styles-gallery.css
+- git commit -m "เพ่พิ่ม media queries สำหรับ responsive gallery"
+- git add gallery.html
+- git commit -m "เพิ่มรูปภาพและ lazy loading"
+- git add css/styles.css
+- git commit -m "เพิ่ม hover และ loading animations"
+- git add js/script.js
+- git commit -m "เพิ่ม filter animations"
+- git add gallery.html
+- git commit -m "เชื่อมต่อ java scr"
+- git add README.md
+- git commit -m "add readme"
